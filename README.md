@@ -1,2 +1,2 @@
 # Python-song-generator
-A python program that can generate a Midi file. . .
+A python program that can generate a raw audio file. . .
